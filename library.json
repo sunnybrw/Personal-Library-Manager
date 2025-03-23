@@ -1,0 +1,16 @@
+[
+    {
+        "title": "marcopolo",
+        "author": "mark twain",
+        "year": 2023,
+        "Genre": "travelouge",
+        "read_status": true
+    },
+    {
+        "title": "raja gidh",
+        "author": "bano quudsia",
+        "year": 2022,
+        "Genre": "literature",
+        "read_status": true
+    }
+]
